@@ -98,6 +98,12 @@
         "category": "Linkedin est l'un de mes tout premiers il m'a permis de maitriser react et aussi les uses states sans oublier Redux , il à été fait avec React et du CSS en utilisant la convention BEM",
         "image": "linkedin.jpeg",
         "url": "gregarious-dodol-a33a7f.netlify.app"
+      },
+      {
+        "title": "Snake Game",
+        "category": "Ce projet à été fait en pur javascript cela m'a permis de maitriser la POO en  javascript",
+        "image": "snake.png",
+        "url": "https://moonlit-speculoos-d5a9d2.netlify.app"
       }
     ]
   }
