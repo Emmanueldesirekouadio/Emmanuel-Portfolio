@@ -91,13 +91,13 @@
         "title": "Snapchat",
         "category": "Snapchat à été réalisé avec React js, styles component pour le style et la pluspart des services firebase (Firestore,Hosting,Authentication)",
         "image": "snapchat.jpeg",
-        "url": "snapchat-clone-final.web.app"
+        "url": "https://snapchat-clone-final.web.app/"
       },
       {
         "title": "Linkedin",
         "category": "Linkedin est l'un de mes tout premiers il m'a permis de maitriser react et aussi les uses states sans oublier Redux , il à été fait avec React et du CSS en utilisant la convention BEM",
         "image": "linkedin.jpeg",
-        "url": "gregarious-dodol-a33a7f.netlify.app"
+        "url": "https://gregarious-dodol-a33a7f.netlify.app/"
       },
       {
         "title": "Snake Game",
